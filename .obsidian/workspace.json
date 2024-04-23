@@ -11,12 +11,8 @@
             "id": "5a67383f5d710022",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据结构/数据结构.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/数据结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "数据结构/数据结构.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,37 +141,51 @@
   },
   "active": "5a67383f5d710022",
   "lastOpenFiles": [
+    "语法/LaTeX.md",
+    "语法/HTML+CSS.md",
+    "语法/TIPS for Blue Topaz/Example/Reading/霸王别姬.md",
+    "语法/TIPS for Blue Topaz/Example/Reading/雄狮少年.md",
+    "语法/TIPS for Blue Topaz/Example/Reading/花束般的恋爱 花束みたいな恋をした.md",
+    "语法/TIPS for Blue Topaz/Example/Reading/新·福音战士剧场版：终 シン・エヴァンゲリオン劇場版.md",
+    "语法/TIPS for Blue Topaz/Example/Reading/星际穿越 Interstellar.md",
+    "语法/TIPS for Blue Topaz/Example/Reading/扎克·施奈德版正义联盟 Zack Snyder's Justice League.md",
+    "语法/TIPS for Blue Topaz/Example/Reading/悬崖之上.md",
+    "语法/TIPS for Blue Topaz/Example/Reading/三体（全集）.md",
+    "语法/TIPS for Blue Topaz/Example/Reading/《笔醒山河》.md",
+    "语法/TIPS for Blue Topaz/Example/Reading/《镰刀与城市》.md",
+    "语法/TIPS for Blue Topaz/Example/Reading/《世界是如何思考的》.md",
+    "语法/TIPS for Blue Topaz/Example/Reading/《从零开始的女性主义》.md",
+    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
+    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
+    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
+    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
+    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
+    "语法/TIPS for Blue Topaz/Example/◾ TableExample/04 - Latex like.md",
+    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
+    "语法/TIPS for Blue Topaz/Example/◾ TableExample/05 - White red.md",
+    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
+    "语法/TIPS for Blue Topaz/Example/◾ TableExample/06 - Yellow cab.md",
+    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
+    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
+    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
+    "语法/TIPS for Blue Topaz/Example/◾ TableExample",
+    "语法/TIPS for Blue Topaz/Example/Reading",
+    "语法/TIPS for Blue Topaz/Example",
+    "语法/TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
+    "语法/TIPS for Blue Topaz/Attachemnt/让子弹飞海报.jpg",
+    "语法/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424112941.png",
+    "语法/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424111837.png",
+    "语法/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
+    "语法/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
+    "语法/TIPS for Blue Topaz/Attachemnt/Pasted image 20220331161219.png",
+    "语法/TIPS for Blue Topaz/Attachemnt/Pasted image 20211229171215.png",
+    "语法/TIPS for Blue Topaz/Attachemnt",
+    "语法/TIPS for Blue Topaz",
+    "语法",
     "数据结构/课件/06.树与二叉树.pdf",
     "数据结构/课件/05.数组和广义表.pdf",
     "数据结构/课件/01.绪论.pdf",
-    "数据结构/数据结构.md",
-    "数据结构/课件/02.线性表.pdf",
-    "数据结构/课件/~$02.线性表.ppt",
-    "数据结构/课件/04.串.pdf",
-    "数据结构/课件/03.栈和队列.pdf",
-    "数据结构/课件/07.图-v4.pdf",
-    "数据结构/课件/~$05.数组和广义表.ppt",
-    "数据结构/课件/~$04.串.ppt",
-    "数据结构/课件/ppt.md",
     "数电/文件/Pasted image 20240422193240.png",
-    "数电/数电.md",
-    "数电/文件/Pasted image 20240422214505.png",
-    "链接.md",
-    "数电/文件/Pasted image 20240422210415.png",
-    "数电/文件/Pasted image 20240422205207.png",
-    "数电/文件/Pasted image 20240422205059.png",
-    "数电/文件/Pasted image 20240422201405.png",
-    "数电/文件/Pasted image 20240422200734.png",
-    "数电/文件/Pasted image 20240422200229.png",
-    "数电/文件/Pasted image 20240422200138.png",
-    "数电/文件/Pasted image 20240422195654.png",
-    "理论力学/理论力学.md",
-    "模电/笔记.md",
-    "宏观经济学/宏观经济学.md",
-    "宏观经济学/课件.md",
-    "path/to/your/file.ext.md",
-    "[.md",
-    "模电/课件/课件.md",
-    "第2章 基本放大电路（发1）.ppt.md"
+    "数电/文件/Pasted image 20240422214505.png"
   ]
 }
