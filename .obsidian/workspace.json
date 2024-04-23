@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "c63b1679a3a283d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2b818f9fb786cc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a67383f5d710022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构/数据结构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8845aac5c2352641",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddd41c7e02786c9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3209986b317dcbb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "064671fac774bd33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2926ad783d24b215",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3761b0644a1af22e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6288e28204e2663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7ae07fa48afe48e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据结构/数据结构.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f440b2a32035751b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据结构/数据结构.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f13583f8e8909921",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "848523a24eaea984",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数据结构/数据结构.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "5a67383f5d710022",
+  "lastOpenFiles": [
+    "数据结构/课件/06.树与二叉树.pdf",
+    "数据结构/课件/05.数组和广义表.pdf",
+    "数据结构/课件/01.绪论.pdf",
+    "数据结构/数据结构.md",
+    "数据结构/课件/02.线性表.pdf",
+    "数据结构/课件/~$02.线性表.ppt",
+    "数据结构/课件/04.串.pdf",
+    "数据结构/课件/03.栈和队列.pdf",
+    "数据结构/课件/07.图-v4.pdf",
+    "数据结构/课件/~$05.数组和广义表.ppt",
+    "数据结构/课件/~$04.串.ppt",
+    "数据结构/课件/ppt.md",
+    "数电/文件/Pasted image 20240422193240.png",
+    "数电/数电.md",
+    "数电/文件/Pasted image 20240422214505.png",
+    "链接.md",
+    "数电/文件/Pasted image 20240422210415.png",
+    "数电/文件/Pasted image 20240422205207.png",
+    "数电/文件/Pasted image 20240422205059.png",
+    "数电/文件/Pasted image 20240422201405.png",
+    "数电/文件/Pasted image 20240422200734.png",
+    "数电/文件/Pasted image 20240422200229.png",
+    "数电/文件/Pasted image 20240422200138.png",
+    "数电/文件/Pasted image 20240422195654.png",
+    "理论力学/理论力学.md",
+    "模电/笔记.md",
+    "宏观经济学/宏观经济学.md",
+    "宏观经济学/课件.md",
+    "path/to/your/file.ext.md",
+    "[.md",
+    "模电/课件/课件.md",
+    "第2章 基本放大电路（发1）.ppt.md"
+  ]
+}
