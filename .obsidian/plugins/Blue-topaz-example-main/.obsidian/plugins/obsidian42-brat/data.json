@@ -1,0 +1,24 @@
+{
+  "pluginList": [
+    "Quorafind/Obsidian-Float-Search",
+    "JuckZ/awesome-brain-manager",
+    "felixchenier/obsidian-optimize-canvas-connections",
+    "LincZero/obsidian-any-block",
+    "benhughes/obsidian-link-exploder",
+    "Quorafind/Obsidian-Canvas-Block-Reference",
+    "Quorafind/Obsidian-Tab-Switcher",
+    "Quorafind/Obsidian-Virtual-Hotkey-Keyboard",
+    "Stardusten/ob-table-enhancer",
+    "nothingislost/obsidian-query-control"
+  ],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": false,
+  "ribbonIconEnabled": false,
+  "loggingEnabled": false,
+  "loggingPath": "",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": false
+}

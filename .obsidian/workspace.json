@@ -4,15 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d2b818f9fb786cc2",
+        "id": "cc6375ceb80178dd",
         "type": "tabs",
         "children": [
           {
-            "id": "5a67383f5d710022",
+            "id": "13f17ff6014d6cc8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "数据结构/课件/09.查找.pdf"
+              }
+            }
+          },
+          {
+            "id": "465d2e8d244a1c15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "宏观经济学/笔记/03-索罗增长模型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32483c9eda9f2eeb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "宏观经济学/课件/08-An Equilibrium Business-Cycle Model.pdf"
+              }
             }
           }
         ]
@@ -44,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "y*",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "数据结构/课件/09.查找.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "数据结构/课件/09.查找.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "数据结构/课件/09.查找.pdf"
+              }
             }
           }
         ]
@@ -130,17 +158,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "translate:Open translation view": false
     }
   },
-  "active": "5a67383f5d710022",
+  "active": "13f17ff6014d6cc8",
   "lastOpenFiles": [
+    "数据结构/课件/07.图-v4.pdf",
+    "数据结构/课件/10.内部排序.pdf",
+    "数据结构/课件/09.查找.pdf",
+    "数据结构/课件/06.树与二叉树.pdf",
+    "模电/image/Pasted image 20240429200803.png",
+    "数据结构/课件/msoF8A5.tmp",
+    "数据结构/课件/msoDBA5.tmp",
+    "数据结构/课件/~$10.内部排序.ppt",
+    "数据结构/课件/~$09.查找.ppt",
+    "数据结构/课件/10.内部排序.ppt",
+    "数据结构/课件/10.内部排序.tmp",
+    "数据结构/课件/09.查找.ppt",
+    "模电/image/Pasted image 20240428190656.png",
+    "文件/Pasted image 20240426200019.png",
+    "模电/image/Pasted image 20240428191515.png",
+    "模电/image/Pasted image 20240428191836.png",
+    "模电/image/Pasted image 20240428192557.png",
+    "模电/image/Pasted image 20240428193714.png",
+    "文件/Pasted image 20240426194312.png",
+    "宏观经济学/笔记/03-索罗增长模型.md",
+    "模电/笔记.md",
+    "模电/image/Pasted image 20240428215958.png",
+    "模电/image/Pasted image 20240428193023.png",
+    "数电/数电.md",
+    "宏观经济学/笔记/02-经济增长概论.md",
+    "链接.md",
+    "gross.md",
+    "宏观经济学/笔记/01-导论.md",
+    "宏观经济学/笔记/note 宏经.md",
+    "1-导论-think.md",
+    "[[1-导论-think.md",
+    "国内生产总值.md",
+    "数据结构/数据结构.md",
+    "语法/TIPS for Blue Topaz/Example/各级标题示例.md",
+    "语法/TIPS for Blue Topaz/🥑Blue Topaz Themes Tips.md",
+    "语法/TIPS for Blue Topaz/从这开始.md",
+    "宏观经济学/课件.md",
     "语法/LaTeX.md",
     "语法/HTML+CSS.md",
     "语法/TIPS for Blue Topaz/Example/Reading/霸王别姬.md",
@@ -149,43 +214,6 @@
     "语法/TIPS for Blue Topaz/Example/Reading/新·福音战士剧场版：终 シン・エヴァンゲリオン劇場版.md",
     "语法/TIPS for Blue Topaz/Example/Reading/星际穿越 Interstellar.md",
     "语法/TIPS for Blue Topaz/Example/Reading/扎克·施奈德版正义联盟 Zack Snyder's Justice League.md",
-    "语法/TIPS for Blue Topaz/Example/Reading/悬崖之上.md",
-    "语法/TIPS for Blue Topaz/Example/Reading/三体（全集）.md",
-    "语法/TIPS for Blue Topaz/Example/Reading/《笔醒山河》.md",
-    "语法/TIPS for Blue Topaz/Example/Reading/《镰刀与城市》.md",
-    "语法/TIPS for Blue Topaz/Example/Reading/《世界是如何思考的》.md",
-    "语法/TIPS for Blue Topaz/Example/Reading/《从零开始的女性主义》.md",
-    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
-    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
-    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
-    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/四象限表格.md",
-    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/inline-list【行内列表】.md",
-    "语法/TIPS for Blue Topaz/Example/◾ TableExample/04 - Latex like.md",
-    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
-    "语法/TIPS for Blue Topaz/Example/◾ TableExample/05 - White red.md",
-    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/伪看板-yaml声明.md",
-    "语法/TIPS for Blue Topaz/Example/◾ TableExample/06 - Yellow cab.md",
-    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/Image-grid【图片自适应】.md",
-    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例/code-wrap【代码块自动换行】.md",
-    "语法/TIPS for Blue Topaz/Example/◾ Cssclass声明样式举例",
-    "语法/TIPS for Blue Topaz/Example/◾ TableExample",
-    "语法/TIPS for Blue Topaz/Example/Reading",
-    "语法/TIPS for Blue Topaz/Example",
-    "语法/TIPS for Blue Topaz/Attachemnt/obsidian_image.png",
-    "语法/TIPS for Blue Topaz/Attachemnt/让子弹飞海报.jpg",
-    "语法/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424112941.png",
-    "语法/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424111837.png",
-    "语法/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110626.png",
-    "语法/TIPS for Blue Topaz/Attachemnt/Pasted image 20220424110353.png",
-    "语法/TIPS for Blue Topaz/Attachemnt/Pasted image 20220331161219.png",
-    "语法/TIPS for Blue Topaz/Attachemnt/Pasted image 20211229171215.png",
-    "语法/TIPS for Blue Topaz/Attachemnt",
-    "语法/TIPS for Blue Topaz",
-    "语法",
-    "数据结构/课件/06.树与二叉树.pdf",
-    "数据结构/课件/05.数组和广义表.pdf",
-    "数据结构/课件/01.绪论.pdf",
-    "数电/文件/Pasted image 20240422193240.png",
-    "数电/文件/Pasted image 20240422214505.png"
+    "语法/TIPS for Blue Topaz/Example/Reading/悬崖之上.md"
   ]
 }
